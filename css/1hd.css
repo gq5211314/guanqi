@@ -1,0 +1,295 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#dh{
+	background-color:#eee ;
+	height: 30px;
+	line-height: 30px;
+    padding: 0 50px;
+	font-size:13px ;
+}
+#body_5 li{
+	background: url(../img/bg.png) right no-repeat;
+	
+}
+#dh_left{
+	float: left;
+}
+#dh_right{
+	float:right
+}
+.shx{
+	width: 1px;
+	height: 10px;
+	margin-top:10px ;
+	background:#A9A9A9;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	padding: 0 5px;
+	font-size:13px ;
+}
+a{
+	text-decoration: none;
+	color: #A9A9A9;
+}
+
+.xlk{
+	background-color:#EEE;
+	border: 0;
+}
+#ssl{
+	padding: 20px 50px;
+	height: 100px;
+}
+#ssl_left{
+	float: left;
+}
+#ssl_right{
+	
+	width: 400px;
+	height: 30px;
+	border: 2px solid red;
+	display: inline-block;
+}
+#ld{
+	height: 28px;
+	width: 247px;
+	margin: 0;
+}
+#sp{
+	float: left;
+	height: 30px;
+	font-size: 12px;
+	background: contain;
+	width: 80px;
+	line-height: 30px;
+	text-align: center;
+	display: inline-block;
+}
+#ss_right{
+	float: left;
+	background-color: red;
+	text-align: center;
+	width: 71px;
+	height: 30px;
+}
+#ss_right a{
+	color: #ffffff;
+}
+#ssl_d{
+	float: left;
+	margin-top: 20px;
+	margin-left: 100px;
+	height: 50px;
+	width: 600px;
+}
+.body{
+	padding:0px 50px;
+	/*width: 100%;*/
+}
+#body_1{
+	background-color:red ;
+	width: 260px;
+	height: 40px;
+	text-align: center;
+	color: #FFFFFF;
+	line-height: 40px;
+	float: left;
+}
+#body_2{
+	font-size: 14px;
+	line-height: 39px;
+}
+#body_2 ul li{
+	width: 80px;
+	/*border: 1px solid red;*/
+	text-align: center;
+}
+.body_3{
+	background-color: red;
+	height: 398px;
+	padding:0px 50px;
+	border-top:2px solid darkred;
+}
+#body_4{
+	background-color: #C81623;
+	width: 260px;
+    height: 398px;
+    float: left;
+    display: inline-block;
+	}
+#body_5{
+	margin-top:5px ;
+	display: inline-block;
+	font-size: 13px;
+	float:left ;
+}
+.body_2{
+	float: left;
+	margin: 10px;
+}
+#body_5 ul li a{
+	text-align: left;
+	display: inline-block;
+	width: 180px;
+	color: #FFFFFF;
+	line-height: 32px;
+}
+#body_5 ul li a:hover{
+	background-color: transparent;
+}
+#zb{
+	float: left;
+	width: 750px;
+	height: 398px;
+	position: relative;
+}
+.zb_1{
+	position: absolute;
+	left:550px;
+	bottom: 5px;
+	
+}
+.zb_1 li{
+	background: #EEEEEE;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+}
+#right{
+	background-color:#FFFFFF ;
+	width: 238px;
+	height: 398px;
+	float: left;
+}
+#right ul li{
+	font-size:12px ;
+	width: 70px;
+	color: darkgray;
+	text-align: center;
+}
+#right_1{
+	margin-top:15px ;
+	border-bottom:1px solid darkgrey ;
+	height: 85px;
+}
+#right_2{
+	padding: 7px;
+}
+#right_2 ul li a{
+	display: inline-block;
+	width: 238px;
+	text-align: left;
+	color: darkgray;
+}
+#right_2 ul li a:hover{
+	background-color:initial ;
+}
+#right_3 ul li{
+	display: inline-block;
+	width: 77px;
+	font-size: 15px;
+	text-align: center;
+	color: black;
+	border: 1px solid darkgray;
+	float: left;
+	height: 30px;
+	line-height: 30px;
+}
+#right_4{
+	float: left;
+	padding: 20px;
+	font-size: 12px;
+	height: 150px;
+	/*border: 1px solid red;*/
+	line-height: 40px;
+	width: 197px;
+}
+.text{
+	width: 120px;
+	height: 20px;
+}
+#right_4 p{
+	text-indent: 30px;
+}
+.dier{
+	margin: 20px 50px;
+	border-bottom:2px solid red ;
+	height: 30px;
+}
+.dier_left{
+	float: left;
+	color: red;
+	font-size:18px ;
+	text-indent: 10px;
+}
+.dier_right{
+	float: right;
+	font-size: 12px;
+}
+.chh{
+	margin-left:50px ;
+	margin-top:-20px ;
+}
+.zt{
+	margin-top: 10px;
+	width: 260px;
+	/*border: 1px solid red;*/
+	text-align: center;
+	float: left;
+}
+.zt ul li{
+	display: inline-block;
+	width: 120px;
+	text-align: left;
+	/*border: 1px solid red;*/
+}
+.zt ul li a{
+    font-size: 15px;
+    color: #000000;
+	line-height: 35px;
+}
+.chtt{
+	/*height: 180px;*/
+	text-align: center;
+	line-height: 30px;
+	float: left;
+	width: 220px;
+	/*border: 1px solid red;*/
+}
+#ms{
+	text-align: center;
+	line-height: 30px;
+	float: left;
+	width: 220px;
+}
+#left_3{
+	background-color: crimson;
+	color: #FFFFFF;
+	width: 130px;
+	display: inline-block;
+	height:24px;
+	line-height: 24px;
+	text-align: center;
+}
+#css{
+	display: inline-block;
+	margin-top:30px ;
+	margin-left: 20px;
+}
+.cs2{
+	padding: 0 70px;
+	text-align: center;
+	font-size: 11px;
+}
+#cs2{
+	padding: 0 70px;
+	text-align: center;
+	font-size: 11px;
+}
